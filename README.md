@@ -22,7 +22,7 @@ A shopping mall is a place where people get their daily necessities. People purc
 
 	• PATHEPURAM RAMESH - 
 	
-  • MARELLA HIMA BINDU -
+	• MARELLA HIMA BINDU -
 
 #### Mind Map:
 

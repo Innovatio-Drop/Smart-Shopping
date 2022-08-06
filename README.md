@@ -1,16 +1,16 @@
-#### Smart-Shopping
+### Smart-Shopping
 
-### Abstract :
+#### Abstract :
 
 ### Project Manager : P. Shadrach Sudershan
 
-### Iteration 1
-### Team Details:
+#### Iteration 1
+#### Team Details:
 
-### Circuit:
+#### Circuit:
 
-### Software/Technology:
+#### Software/Technology:
 
-### Key Components:
+#### Key Components:
 
-### Programming Domain:
+#### Programming Domain:
